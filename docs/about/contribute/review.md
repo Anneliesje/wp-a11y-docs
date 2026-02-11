@@ -2,6 +2,7 @@
 title: Review documentation
 layout: default
 parent: How to contribute
+description: Learn how you can review documentation and provide feedback
 nav_order: 5
 ---
 
