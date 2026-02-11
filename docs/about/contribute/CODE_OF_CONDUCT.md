@@ -2,6 +2,7 @@
 title: Code of Conduct
 layout: default
 parent: How to contribute
+description: Standards for behavior when contributing to the WordPress Accessibility Docs
 nav_order: 9
 ---
 
