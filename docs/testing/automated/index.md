@@ -2,6 +2,7 @@
 title: Automated validation
 layout: default
 parent: Test for accessibility
+description: You can use automated testing to get a limited scope of your success at accessibility fixes.
 nav_order: 5
 ---
 
