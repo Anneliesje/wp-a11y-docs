@@ -2,17 +2,17 @@
 title: Add a blog post
 parent: Technical documentation
 nav_order: 2
-description: How to Add or change blog post in this documentation.
+description: How to add or change blog posts in this documentation.
 ---
 
-# Add or change blog post.
+# Add or change a blog post.
 
-Do you have a great idea for a blog post or do you want to pick up an open issue for GitHub? Here's the documentation how to write and add posts for this documentation.
+Do you have a great idea for a blog post, or do you want to pick up an open issue for GitHub? Here's the documentation on how to write and add posts for this documentation.
 
 Each blog post file has the same setup. First a set of variables like the title and the parent. Then the content using Markdown. 
 
-The blog post live in the directory `/_posts/` and are named `yyyy-mm-dd-title.md`.
-For example `2025-08-16-able-player-now-available.md`.
+The blog posts live in the directory `/_posts/` and are named `yyyy-mm-dd-title.md`.
+For example, `2025-08-16-able-player-now-available.md`.
 
 ## The variables at the top of the file for a blog post
 
